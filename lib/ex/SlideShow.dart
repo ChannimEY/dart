@@ -10,6 +10,7 @@ class SlideImage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Slide Image'),
+        //tesk
         
         ),
         body: const ImageSlideshow(
