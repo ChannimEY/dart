@@ -1,6 +1,7 @@
 
 
 import 'package:flutter/material.dart';
+//example  of using a custom widget
 
 class MyHomePage extends StatelessWidget {
   const  MyHomePage({Key? key}) : super(key: key);
